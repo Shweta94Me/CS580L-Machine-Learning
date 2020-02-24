@@ -1,0 +1,201 @@
+Perceptron Output:
+-------------------------------------------------------
+WITHOUT STOPWORDS
+ETA value is 0.0247 Interation value is 34
+Email Classified Correctly:432/478
+Accuracy without Stopwords:90.3765690376569
+
+WITH STOPWORDS
+ETA value is 0.0194 Interation value is 98
+Email Classified Correctly:442/478
+Accuracy with Stopwords:92.46861924686192
+-------------------------------------------------------
+WITHOUT STOPWORDS
+ETA value is 0.0272 Interation value is 72
+Email Classified Correctly:447/478
+Accuracy without Stopwords:93.51464435146444
+
+WITH STOPWORDS
+ETA value is 0.026 Interation value is 12
+Email Classified Correctly:374/478
+Accuracy with Stopwords:78.24267782426779
+-------------------------------------------------------
+WITHOUT STOPWORDS
+ETA value is 0.0224 Interation value is 30
+Email Classified Correctly:439/478
+Accuracy without Stopwords:91.84100418410041
+
+WITH STOPWORDS
+ETA value is 0.0295 Interation value is 45
+Email Classified Correctly:437/478
+Accuracy with Stopwords:91.42259414225941
+-------------------------------------------------------
+WITHOUT STOPWORDS
+ETA value is 0.0459 Interation value is 86
+Email Classified Correctly:441/478
+Accuracy without Stopwords:92.25941422594143
+
+WITH STOPWORDS
+ETA value is 0.0155 Interation value is 31
+Email Classified Correctly:438/478
+Accuracy with Stopwords:91.63179916317992
+-------------------------------------------------------
+WITHOUT STOPWORDS
+ETA value is 0.0032 Interation value is 51
+Email Classified Correctly:441/478
+Accuracy without Stopwords:92.25941422594143
+
+WITH STOPWORDS
+ETA value is 0.0379 Interation value is 81
+Email Classified Correctly:440/478
+Accuracy with Stopwords:92.05020920502092
+-------------------------------------------------------
+WITHOUT STOPWORDS
+ETA value is 0.028 Interation value is 99
+Email Classified Correctly:442/478
+Accuracy without Stopwords:92.46861924686192
+
+WITH STOPWORDS
+ETA value is 0.0363 Interation value is 47
+Email Classified Correctly:440/478
+Accuracy with Stopwords:92.05020920502092
+-------------------------------------------------------
+WITHOUT STOPWORDS
+ETA value is 0.0147 Interation value is 84
+Email Classified Correctly:441/478
+Accuracy without Stopwords:92.25941422594143
+
+WITH STOPWORDS
+ETA value is 0.0129 Interation value is 24
+Email Classified Correctly:438/478
+Accuracy with Stopwords:91.63179916317992
+-------------------------------------------------------
+WITHOUT STOPWORDS
+ETA value is 0.0351 Interation value is 92
+Email Classified Correctly:439/478
+Accuracy without Stopwords:91.84100418410041
+
+WITH STOPWORDS
+ETA value is 0.0294 Interation value is 11
+Email Classified Correctly:403/478
+Accuracy with Stopwords:84.30962343096235
+-------------------------------------------------------
+WITHOUT STOPWORDS
+ETA value is 0.0036 Interation value is 15
+Email Classified Correctly:444/478
+Accuracy without Stopwords:92.88702928870293
+
+WITH STOPWORDS
+ETA value is 0.0417 Interation value is 23
+Email Classified Correctly:440/478
+Accuracy with Stopwords:92.05020920502092
+-------------------------------------------------------
+WITHOUT STOPWORDS
+ETA value is 0.0171 Interation value is 69
+Email Classified Correctly:441/478
+Accuracy without Stopwords:92.25941422594143
+
+WITH STOPWORDS
+ETA value is 0.0467 Interation value is 79
+Email Classified Correctly:438/478
+Accuracy with Stopwords:91.63179916317992
+-------------------------------------------------------
+WITHOUT STOPWORDS
+ETA value is 0.0396 Interation value is 29
+Email Classified Correctly:434/478
+Accuracy without Stopwords:90.7949790794979
+
+WITH STOPWORDS
+ETA value is 0.0065 Interation value is 50
+Email Classified Correctly:444/478
+Accuracy with Stopwords:92.88702928870293
+-------------------------------------------------------
+WITHOUT STOPWORDS
+ETA value is 0.0258 Interation value is 28
+Email Classified Correctly:447/478
+Accuracy without Stopwords:93.51464435146444
+
+WITH STOPWORDS
+ETA value is 0.0067 Interation value is 11
+Email Classified Correctly:402/478
+Accuracy with Stopwords:84.10041841004184
+-------------------------------------------------------
+WITHOUT STOPWORDS
+ETA value is 0.0294 Interation value is 21
+Email Classified Correctly:441/478
+Accuracy without Stopwords:92.25941422594143
+
+WITH STOPWORDS
+ETA value is 0.0108 Interation value is 72
+Email Classified Correctly:439/478
+Accuracy with Stopwords:91.84100418410041
+-------------------------------------------------------
+WITHOUT STOPWORDS
+ETA value is 0.0474 Interation value is 52
+Email Classified Correctly:440/478
+Accuracy without Stopwords:92.05020920502092
+
+WITH STOPWORDS
+ETA value is 0.0036 Interation value is 32
+Email Classified Correctly:441/478
+Accuracy with Stopwords:92.25941422594143
+-------------------------------------------------------
+WITHOUT STOPWORDS
+ETA value is 0.0465 Interation value is 40
+Email Classified Correctly:442/478
+Accuracy without Stopwords:92.46861924686192
+
+WITH STOPWORDS
+ETA value is 0.0178 Interation value is 80
+Email Classified Correctly:439/478
+Accuracy with Stopwords:91.84100418410041
+-------------------------------------------------------
+WITHOUT STOPWORDS
+ETA value is 0.0187 Interation value is 86
+Email Classified Correctly:441/478
+Accuracy without Stopwords:92.25941422594143
+
+WITH STOPWORDS
+ETA value is 0.0226 Interation value is 59
+Email Classified Correctly:436/478
+Accuracy with Stopwords:91.2133891213389
+-------------------------------------------------------
+WITHOUT STOPWORDS
+ETA value is 0.0188 Interation value is 49
+Email Classified Correctly:438/478
+Accuracy without Stopwords:91.63179916317992
+
+WITH STOPWORDS
+ETA value is 0.0258 Interation value is 76
+Email Classified Correctly:434/478
+Accuracy with Stopwords:90.7949790794979
+-------------------------------------------------------
+WITHOUT STOPWORDS
+ETA value is 0.0149 Interation value is 70
+Email Classified Correctly:444/478
+Accuracy without Stopwords:92.88702928870293
+
+WITH STOPWORDS
+ETA value is 0.0053 Interation value is 94
+Email Classified Correctly:438/478
+Accuracy with Stopwords:91.63179916317992
+-------------------------------------------------------
+WITHOUT STOPWORDS
+ETA value is 0.015 Interation value is 82
+Email Classified Correctly:433/478
+Accuracy without Stopwords:90.5857740585774
+
+WITH STOPWORDS
+ETA value is 0.0397 Interation value is 39
+Email Classified Correctly:439/478
+Accuracy with Stopwords:91.84100418410041
+-------------------------------------------------------
+WITHOUT STOPWORDS
+ETA value is 0.0141 Interation value is 46
+Email Classified Correctly:446/478
+Accuracy without Stopwords:93.30543933054393
+
+WITH STOPWORDS
+ETA value is 0.0413 Interation value is 35
+Email Classified Correctly:444/478
+Accuracy with Stopwords:92.88702928870293
